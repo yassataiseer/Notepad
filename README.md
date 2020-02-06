@@ -1,2 +1,2 @@
 # Notepad
-Mini notepad made via python tkinte
+Mini notepad made via python tkinter
